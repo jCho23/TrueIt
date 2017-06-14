@@ -1,3 +1,14 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{7F8F0EB3-1ECC-4BD0-88FD-7F9A2BAEF293}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.TrueIt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrueIt/AppInitializer.cs">
+    <Files>
+      <File FileName="TrueIt/AppInitializer.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
